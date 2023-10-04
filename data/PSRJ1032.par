@@ -1,0 +1,38 @@
+# Created: 2023-05-23T13:33:32.756194
+# PINT_version: 0.7+4211.gdd8ff904.dirty
+# User: David Kaplan (kaplan)
+# Host: plock
+# OS: macOS-10.16-x86_64-i386-64bit
+# Format: pint
+PSRJ                           J1032-5804
+EPHEM                               DE405
+CLK                               TT(TAI)
+UNITS                                 TDB
+START              59999.5802594954999652
+FINISH             60087.2017558985995949
+TIMEEPH                              FB90
+T2CMETHOD                        IAU2000B
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                   22
+CHI2                     35.1244255699957
+RAJ                     10:32:50.44900000
+DECJ                   -58:04:34.57900000
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+POSEPOCH           60052.2694228339419311
+F0                  12.699886145363892346 1 6.848619707715068472e-10
+F1              -5.8159077959518560154e-12 1 4.4308243529995124325e-16
+F2                                    0.0
+PEPOCH             60052.2694228339419311
+CORRECT_TROPOSPHERE                         N
+PLANET_SHAPIRO                          N
+NE_SW                                 4.0
+SWM                                   0.0
+DM                   819.0000126987571738
+DM1                                   0.0
+DMEPOCH            60052.2694228339419311
+TZRMJD             60052.2491307988608796
+TZRSITE                               pks
+TZRFRQ                        2867.374023

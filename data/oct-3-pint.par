@@ -1,0 +1,40 @@
+# Created: 2023-10-02T19:38:48.778486
+# PINT_version: 0.9.7
+# User: sengar
+# Host: UWM020380
+# OS: macOS-13.4.1-arm64-arm-64bit
+# Python: 3.9.12 (main, Jun  1 2022, 06:34:44) 
+# [Clang 12.0.0 ]
+# Format: pint
+PSRJ                           J1032-5804
+EPHEM                               DE405
+CLK                               TT(TAI)
+UNITS                                 TDB
+START              59999.5802594954999652
+FINISH             60219.0939184284178357
+TIMEEPH                              FB90
+T2CMETHOD                        IAU2000B
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                   26
+CHI2                    43.61122445410488
+RAJ                     10:32:50.39696643 1 0.94490401511388633082
+DECJ                   -58:04:35.29330689 1 0.66962366901251935136
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+POSEPOCH           60052.2694228339419310
+F0                     12.699886143430234 1 2.2991178585083837e-08
+F1                 -5.816702020537794e-12 1 6.049670086084414e-15
+F2                                    0.0
+PEPOCH             60052.2694228339419310
+CORRECT_TROPOSPHERE                         N
+PLANET_SHAPIRO                          N
+NE_SW                                 4.0
+SWM                                   0.0
+DM                      819.0000126987571
+DM1                                   0.0
+DMEPOCH            60052.2694228339419310
+TZRMJD             60087.2017558983658333
+TZRSITE                               pks
+TZRFRQ                           2746.193

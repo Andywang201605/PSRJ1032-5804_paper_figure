@@ -1,0 +1,34 @@
+FORMAT                                                                  1
+C                                                                       Created:       2023-10-02T19:38:56.764590
+C                                                                       PINT_version:  0.9.7
+C                                                                       User:          sengar
+C                                                                       Host:          UWM020380
+C                                                                       OS:            macOS-13.4.1-arm64-arm-64bit
+C                                                                       Python:        3.9.12                        (main,    Jun     1        2022,   06:34:44)
+C                                                                       [Clang         12.0.0                        ]
+uwl_230224_134745.208nchn_512nbin_2.5GHz_3.2GHz.pint                    2861.333008    59999.5802594955006481        536.768   parkes  -format  Tempo2  -pn        -96144490.0
+uwl_230224_134745.208nchn_512nbin_2.5GHz_3.2GHz.pint                    2856.354004    59999.5904608151716667        780.443   parkes  -format  Tempo2  -pn        -96133296.0
+uwl_230418_054606.208nchn_512nbin.clfd.2.5GHz_3.2GHz.pint               2867.374023    60052.2491308043153241        189.342   parkes  -format  Tempo2  -pn        -38351604.0
+uwl_230418_054606.208nchn_512nbin.clfd.2.5GHz_3.2GHz.pint               2867.602051    60052.2661376842675810        374.270   parkes  -format  Tempo2  -pn        -38332943.0
+uwl_230418_054606.208nchn_512nbin.clfd.2.5GHz_3.2GHz.pint               2867.556885    60052.2829832500051389        309.763   parkes  -format  Tempo2  -pn        -38314459.0
+uwl_230419_060228_208nchn_512nbin.clfd.2.5GHz_3.2GHz.pint               2871.539000    60053.2581705841769560        311.053   parkes  -format  Tempo2  -pn        -37244424.0
+uwl_230419_060228_208nchn_512nbin.clfd.2.5GHz_3.2GHz.pint               2872.603000    60053.2711838976643287        425.867   parkes  -format  Tempo2  -pn        -37230145.0
+uwl_230419_060228_208nchn_512nbin.clfd.2.5GHz_3.2GHz.pint               2873.894000    60053.2839183298379398        721.758   parkes  -format  Tempo2  -pn        -37216172.0
+uwl_230502_063641_added.208nchn_64subint_512nbin.clfd.2.5_3.2GHz.pint   2888.000000    60066.2847839196334143        533.306   parkes  -format  Tempo2  -pn        -22950918.0
+uwl_230502_063641_added.208nchn_64subint_512nbin.clfd.2.5_3.2GHz.pint   2887.999000    60066.3029092602817014        307.005   parkes  -format  Tempo2  -pn        -22931030.0
+uwl_230502_133750_added.208nchn_64subint_512nbin.clfd.2.5_3.2GHz.pint   2869.574000    60066.5768319539331365        468.006   parkes  -format  Tempo2  -pn        -22630469.0
+uwl_230502_133750_added.208nchn_64subint_512nbin.clfd.2.5_3.2GHz.pint   2868.452000    60066.5947495227320139        301.501   parkes  -format  Tempo2  -pn        -22610809.0
+uwl_230504_093726.208nchn_512nbin.clfd.208nchn_512nbin.2.5_3.2GHz.pint  2871.774000    60068.4048415324522454        489.347   parkes  -format  Tempo2  -pn        -20624691.0
+uwl_230504_093726.208nchn_512nbin.clfd.208nchn_512nbin.2.5_3.2GHz.pint  2871.588000    60068.4126027882341898        426.681   parkes  -format  Tempo2  -pn        -20616175.0
+uwl_230505_123715.208nchn_512nbin.clfd.2.5_3.2GHz.pint                  2778.639000    60069.5294323824390278        486.056   parkes  -format  Tempo2  -pn        -19390739.0
+uwl_230505_123715.208nchn_512nbin.clfd.2.5_3.2GHz.pint                  2777.285000    60069.5363615575372686        607.264   parkes  -format  Tempo2  -pn        -19383136.0
+uwl_230506_110857_added.208nchn_512nbin.clfd.2.5_3.2GHz.pint            2790.741000    60070.4732482274800578        262.147   parkes  -format  Tempo2  -pn        -18355142.0
+uwl_230506_110857_added.208nchn_512nbin.clfd.2.5_3.2GHz.pint            2786.845000    60070.4907120121894675        272.358   parkes  -format  Tempo2  -pn        -18335980.0
+uwl_230523_034233_added.208nchn_512nbin.clfd.pint                       2759.451000    60087.1613067652076736        749.291   parkes  -format  Tempo2  -pn        -44382.0
+uwl_230523_034233_added.208nchn_512nbin.clfd.pint                       2752.302000    60087.1748208077923958        272.545   parkes  -format  Tempo2  -pn        -29554.0
+uwl_230523_034233_added.208nchn_512nbin.clfd.pint                       2755.525000    60087.1883913162651968        370.820   parkes  -format  Tempo2  -pn        -14664.0
+uwl_230523_034233_added.208nchn_512nbin.clfd.pint                       2746.193000    60087.2017558986003009        447.748   parkes  -format  Tempo2  -pn        0.0
+uwl_231001_003641.2.5GHz_3.2GHz.pint                                    2875.724121    60218.0291486429908681        1022.561  parkes  -format  Tempo2  -pn        143546817.0
+uwl_231001_003641.2.5GHz_3.2GHz.pint                                    2880.207031    60218.0359483395295370        606.488   parkes  -format  Tempo2  -pn        143554278.0
+uwl_231002_020016.2.5GHz_3.2GHz.pint                                    2874.479004    60219.0871606246926389        594.659   parkes  -format  Tempo2  -pn        144707725.0
+uwl_231002_020016.2.5GHz_3.2GHz.pint                                    2871.522949    60219.0939184284185417        712.457   parkes  -format  Tempo2  -pn        144715140.0

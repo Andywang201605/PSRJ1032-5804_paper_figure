@@ -1,0 +1,110 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: pulsar, datatype: string}
+# - name: ra_hms_cont
+#   datatype: string
+#   meta: !!omap
+#   - {ucd: pos.eq.ra}
+#   - {_votable_string_dtype: char}
+# - name: dec_dms_cont
+#   datatype: string
+#   meta: !!omap
+#   - {ucd: pos.eq.dec}
+#   - {_votable_string_dtype: char}
+# - name: ra_deg_cont
+#   unit: deg
+#   datatype: float64
+#   format: '{:12.6f}'
+#   meta: !!omap
+#   - {ucd: pos.eq.ra;meta.main}
+#   - {width: 12}
+#   - {precision: '6'}
+# - name: dec_deg_cont
+#   unit: deg
+#   datatype: float64
+#   format: '{:13.6f}'
+#   meta: !!omap
+#   - {ucd: pos.eq.dec;meta.main}
+#   - {width: 13}
+#   - {precision: '6'}
+# - name: ra_err
+#   unit: arcsec
+#   datatype: float32
+#   format: '{:11.2f}'
+#   meta: !!omap
+#   - {ucd: stat.error;pos.eq.ra}
+#   - {width: 11}
+#   - {precision: '2'}
+# - name: dec_err
+#   unit: arcsec
+#   datatype: float32
+#   format: '{:11.2f}'
+#   meta: !!omap
+#   - {ucd: stat.error;pos.eq.dec}
+#   - {width: 11}
+#   - {precision: '2'}
+# - name: freq
+#   unit: MHz
+#   datatype: float32
+#   format: '{:11.1f}'
+#   meta: !!omap
+#   - {ucd: em.freq}
+#   - {width: 11}
+#   - {precision: '1'}
+# - name: flux_peak
+#   unit: mJy / beam
+#   datatype: float32
+#   format: '{:11.3f}'
+#   meta: !!omap
+#   - {ucd: phot.flux.density;stat.max;em.radio;stat.fit}
+#   - {width: 11}
+#   - {precision: '3'}
+# - name: flux_peak_err
+#   unit: mJy / beam
+#   datatype: float32
+#   format: '{:14.3f}'
+#   meta: !!omap
+#   - {ucd: stat.error;phot.flux.density;stat.max;em.radio;stat.fit}
+#   - {width: 14}
+#   - {precision: '3'}
+# - name: flux_int
+#   unit: mJy
+#   datatype: float32
+#   format: '{:10.3f}'
+#   meta: !!omap
+#   - {ucd: phot.flux.density;em.radio;stat.fit}
+#   - {width: 10}
+#   - {precision: '3'}
+# - name: flux_int_err
+#   unit: mJy
+#   datatype: float32
+#   format: '{:13.3f}'
+#   meta: !!omap
+#   - {ucd: stat.error;phot.flux.density;em.radio;stat.fit}
+#   - {width: 13}
+#   - {precision: '3'}
+# - {name: vlass_flux_peak, datatype: float64}
+# - {name: vlass_flux_peak_err, datatype: float64}
+# - {name: vlass_flux_int, datatype: float64}
+# - {name: vlass_flux_int_err, datatype: float64}
+# meta: !!omap
+# - {ID: Component_catalogue}
+# - {name: Component catalogue}
+# schema: astropy-2.0
+pulsar ra_hms_cont dec_dms_cont ra_deg_cont dec_deg_cont ra_err dec_err freq flux_peak flux_peak_err flux_int flux_int_err vlass_flux_peak vlass_flux_peak_err vlass_flux_int vlass_flux_int_err
+J0509+0856 05:09:22.2 +08:56:25 77.34264 8.940491 0.7 0.81 887.5 5.714 0.433 5.455 0.727 nan nan nan nan
+J0613-0200 06:13:43.8 -02:00:46 93.432643 -2.01289 0.41 0.32 887.5 7.454 0.296 7.429 0.511 nan nan nan nan
+J0732+2314 07:32:37.5 +23:14:55 113.156362 23.248612 0.72 1.44 887.5 3.434 0.293 3.593 0.523 nan nan nan nan
+J0751+1807 07:51:08.9 +18:07:41 117.787071 18.128073 1.51 1.99 887.5 2.182 0.406 1.795 0.619 nan nan nan nan
+J1614-2230 16:14:36.4 -22:30:30 243.651788 -22.508491 0.97 0.71 887.5 2.91 0.263 3.047 0.471 nan nan nan nan
+J1737-0811 17:37:47.0 -08:11:09 264.445927 -8.185877 1.21 0.73 887.5 2.538 0.282 2.67 0.506 nan nan nan nan
+J1744-1134 17:44:29.5 -11:34:51 266.122788 -11.581075 1.17 0.84 887.5 1.234 0.104 2.198 0.276 nan nan nan nan
+J1745+1017 17:45:33.8 +10:17:51 266.390858 10.297525 0.88 1.24 887.5 2.578 0.295 2.772 0.539 nan nan nan nan
+J1801-1417 18:01:51.0 -14:17:37 270.462551 -14.293687 1.65 1.43 887.5 1.641 0.315 1.566 0.53 nan nan nan nan
+J1811-2405 18:11:19.9 -24:05:18 272.83292 -24.088526 0.56 0.51 887.5 3.576 0.26 3.584 0.451 nan nan nan nan
+J1857+0943 18:57:36.3 +09:43:16 284.401316 9.721279 0.26 0.28 887.5 8.193 0.27 8.851 0.493 2.107 0.11599999666213989 2.435 0.22699999809265137
+J1944+0907 19:44:09.3 +09:07:23 296.038944 9.123132 0.23 0.22 887.5 8.451 0.223 9.397 0.415 1.052 0.12600000202655792 1.243 0.24400000274181366
+J1946+3417 19:46:25.1 +34:17:18 296.604764 34.288371 0.56 1.37 887.5 2.288 0.188 2.706 0.366 nan nan nan nan
+J1955+2908 19:55:28.0 +29:08:44 298.866632 29.145709 0.95 1.81 887.5 1.723 0.257 1.66 0.435 nan nan nan nan
+J2234+0944 -- -- nan nan nan nan nan nan nan nan nan 1.19 0.149 1.666 0.326
